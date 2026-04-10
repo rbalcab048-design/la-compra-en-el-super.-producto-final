@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260410182344EGUFT8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260410182344KS4IGP</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La compra en el supermercado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>La compra en el supermercado es una SdA creada para trabajar: conceptos matemáticos como la suma, la resta, el uso del dinero. Además, de la elaboración de la lista de la compra.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Rafael Baltanás Cabrera. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta SdA vamos a tratar la relevancia de saber hacer bien la compra en un supermercado. Para ello vamos a trabajar a través de sesiones: las partes del supermercado, el uso de las monedas, las sumas, las restas del dinero y la elaboración de una lista de la compra entre otras. Todo ello se va a realizar a través de actividades interactivas muy motivacionales. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775838213724</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>footer</key>
+    <value>Rafael Baltanás Cabrera. 
+falin90@hotmail.com</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnt47z97-4byvo8i5g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>La compra en el supermercado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La compra en el supermercado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La compra en el supermercado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La compra en el supermercado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z97-4byvo8i5g</odePageId>
+      <odeBlockId>block-1774287569493-45omrlmt0</odeBlockId>
+      <blockName>La compra en el supermercado</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z97-4byvo8i5g</odePageId>
+          <odeBlockId>block-1774287569493-45omrlmt0</odeBlockId>
+          <odeIdeviceId>idevice-1774287569491-k0uq16lta</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final planteado es una SdA denominada "La compra en el supermercado", está va dirigida al alumnado con <strong>Necesidades Educativas Especiales de modalidad C </strong>en un IES. El alumnado cursa la modalidad de <strong>aula específica</strong> y desarrollan su currículo a través de una<strong> Adaptación Curricular Individualizada</strong>. Este tipo de adaptación se desarrolla a su vez, a través de ámbitos, siendo el<strong> ámbito de conocimiento y participación en el medio social y físico al que va dirigido este producto final </strong>.</p>
+<p>A través de la presente SdA el alumnado aprenderá el desarrollo competencias específicas y habilidades como: <br />comunicación oral, la expresión escrita, el uso del dinero, el cálculo y el conocimiento de las <br />partes de un supermercado.</p>
+<p><img src="{{context_path}}/content/resources/supermercado 2..jpg" width="845" height="472" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774287569491-k0uq16lta","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final planteado es una SdA denominada \"La compra en el supermercado\", está va dirigida al alumnado con <strong>Necesidades Educativas Especiales de modalidad C </strong>en un IES. El alumnado cursa la modalidad de <strong>aula específica</strong> y desarrollan su currículo a través de una<strong> Adaptación Curricular Individualizada</strong>. Este tipo de adaptación se desarrolla a su vez, a través de ámbitos, siendo el<strong> ámbito de conocimiento y participación en el medio social y físico al que va dirigido este producto final </strong>.</p>\n<p>A través de la presente SdA el alumnado aprenderá el desarrollo competencias específicas y habilidades como: <br />comunicación oral, la expresión escrita, el uso del dinero, el cálculo y el conocimiento de las <br />partes de un supermercado.</p>\n<p><img src=\"{{context_path}}/content/resources/supermercado 2..jpg\" width=\"845\" height=\"472\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9b-1prc5f3id</odePageId>
+  <odeParentPageId>page-mnt47z97-4byvo8i5g</odeParentPageId>
+  <pageName>Presentación de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9b-1prc5f3id</odePageId>
+      <odeBlockId>block-1774288832434-pfxnhrbcm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9b-1prc5f3id</odePageId>
+          <odeBlockId>block-1774288832434-pfxnhrbcm</odeBlockId>
+          <odeIdeviceId>idevice-1774288832429-n9i4sk1qg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El siguiente póster describe los elementos fundamentales de la SdA a desarrollar; desde su centro de interés, su temporalización, las áreas implicadas y la importancia que tiene su desarrollo en el alumnado con NEE del aula específica de modalidad c o aula específica.</p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/La compra en el supermercado (1).png" width="843" height="474" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774288832429-n9i4sk1qg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El siguiente póster describe los elementos fundamentales de la SdA a desarrollar; desde su centro de interés, su temporalización, las áreas implicadas y la importancia que tiene su desarrollo en el alumnado con NEE del aula específica de modalidad c o aula específica.</p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/La compra en el supermercado (1).png\" width=\"843\" height=\"474\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9c-ih8622nyj</odePageId>
+  <odeParentPageId>page-mnt47z97-4byvo8i5g</odeParentPageId>
+  <pageName>Mindmpap</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mindmpap</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mindmpap</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9c-ih8622nyj</odePageId>
+      <odeBlockId>block-1774289166982-uphlb859n</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9c-ih8622nyj</odePageId>
+          <odeBlockId>block-1774289166982-uphlb859n</odeBlockId>
+          <odeIdeviceId>idevice-1774289166976-h9901cvpj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través del siguiente enlace de Canva podréis consultar el recorrido que haremos en cada una de las sesiones con las tareas propuestas así como el uso que se hará de las herramientas y medios tecnológicos.</p>
+<p><a href="https://www.canva.com/design/DAHEYCyVjLk/M4QOkmdzSqes8OLR7f1_8w/view?utm_content=DAHEYCyVjLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9f834d34e6" title="">https://www.canva.com/design/DAHEYCyVjLk/M4QOkmdzSqes8OLR7f1_8w/view?utm_content=DAHEYCyVjLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9f834d34e6</a> </p>
+<p><img src="{{context_path}}/content/resources/7.1. mapa mental canva.pdf" alt="" /><img src="{{context_path}}/content/resources/7.1. mapa mental canva.jpg" width="1536" height="864" alt="" /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774289166976-h9901cvpj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través del siguiente enlace de Canva podréis consultar el recorrido que haremos en cada una de las sesiones con las tareas propuestas así como el uso que se hará de las herramientas y medios tecnológicos.</p>\n<p><a href=\"https://www.canva.com/design/DAHEYCyVjLk/M4QOkmdzSqes8OLR7f1_8w/view?utm_content=DAHEYCyVjLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9f834d34e6\" title=\"\">https://www.canva.com/design/DAHEYCyVjLk/M4QOkmdzSqes8OLR7f1_8w/view?utm_content=DAHEYCyVjLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9f834d34e6</a> </p>\n<p><img src=\"{{context_path}}/content/resources/7.1. mapa mental canva.pdf\" alt=\"\" /><img src=\"{{context_path}}/content/resources/7.1. mapa mental canva.jpg\" width=\"1536\" height=\"864\" alt=\"\" /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt47z9c-ih8622nyj</odePageId>
+      <odeBlockId>block-1774290350908-1vvmbmxpo</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9c-ih8622nyj</odePageId>
+          <odeBlockId>block-1774290350908-1vvmbmxpo</odeBlockId>
+          <odeIdeviceId>idevice-1774290350905-sza9j5wd0</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body">
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774290350905-sza9j5wd0"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9d-32lvqz0ij</odePageId>
+  <odeParentPageId>page-mnt47z97-4byvo8i5g</odeParentPageId>
+  <pageName>Seguridad en las redes</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad en las redes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad en las redes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9d-32lvqz0ij</odePageId>
+      <odeBlockId>block-1774365528200-9gdy1038a</odeBlockId>
+      <blockName>Estar seguro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9d-32lvqz0ij</odePageId>
+          <odeBlockId>block-1774365528200-9gdy1038a</odeBlockId>
+          <odeIdeviceId>idevice-1774365528198-l2c776onx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />Como hemos hablado con anterioridad, el trabajo con internet y medios digitales es fundamental para el desarrollo de nuestras capacidades. Sin embargo, un consumo prudente de las mismas es necesario. Tal como se acordó en la SdA previa, nuestro trabajo se regirá por 8 pautas de seguridad en redes. </p>
+<p>Incluyo la infografía que elaboramos entre todos para que sea recordada.</p>
+<p><img src="{{context_path}}/content/resources/Seguridad en las redes.png" width="734" height="1556" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774365528198-l2c776onx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />Como hemos hablado con anterioridad, el trabajo con internet y medios digitales es fundamental para el desarrollo de nuestras capacidades. Sin embargo, un consumo prudente de las mismas es necesario. Tal como se acordó en la SdA previa, nuestro trabajo se regirá por 8 pautas de seguridad en redes. </p>\n<p>Incluyo la infografía que elaboramos entre todos para que sea recordada.</p>\n<p><img src=\"{{context_path}}/content/resources/Seguridad en las redes.png\" width=\"734\" height=\"1556\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9e-5op083qvi</odePageId>
+  <odeParentPageId>page-mnt47z97-4byvo8i5g</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9e-5op083qvi</odePageId>
+      <odeBlockId>block-1774457355883-e1zl2un58</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9e-5op083qvi</odePageId>
+          <odeBlockId>block-1774457355883-e1zl2un58</odeBlockId>
+          <odeIdeviceId>idevice-1774457355878-gxqbcefin</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente documento se aportan<strong> la relación tareas propuestas en esta SdA con los criterios de evaluación seleccionados.</strong> Estos criterios seleccionados, buscan el máximo en el desarrollo del ámbito de conocimiento participación en el medio social y físico. Este ámbito, es  uno de los tres ámbitos que componen las adaptaciones curriculares individualizadas de nuestro alumnado con NEE en modalidad C o de aula específica al que va dirigido la SdA. </p>
+<p><a href="https://docs.google.com/document/d/1_YQABwXhnSWMhDa4Xf7JUHWLrmi_itjJ5UKzyaXbgm0/edit?usp=sharing" title="">https://docs.google.com/document/d/1_YQABwXhnSWMhDa4Xf7JUHWLrmi_itjJ5UKzyaXbgm0/edit?usp=sharing</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774457355878-gxqbcefin","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente documento se aportan<strong> la relación tareas propuestas en esta SdA con los criterios de evaluación seleccionados.</strong> Estos criterios seleccionados, buscan el máximo en el desarrollo del ámbito de conocimiento participación en el medio social y físico. Este ámbito, es  uno de los tres ámbitos que componen las adaptaciones curriculares individualizadas de nuestro alumnado con NEE en modalidad C o de aula específica al que va dirigido la SdA. </p>\n<p><a href=\"https://docs.google.com/document/d/1_YQABwXhnSWMhDa4Xf7JUHWLrmi_itjJ5UKzyaXbgm0/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1_YQABwXhnSWMhDa4Xf7JUHWLrmi_itjJ5UKzyaXbgm0/edit?usp=sharing</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9e-wzk2t01hs</odePageId>
+  <odeParentPageId>page-mnt47z97-4byvo8i5g</odeParentPageId>
+  <pageName>Sesiones</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9e-wzk2t01hs</odePageId>
+      <odeBlockId>block-1774452096572-44todxt0q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9e-wzk2t01hs</odePageId>
+          <odeBlockId>block-1774452096572-44todxt0q</odeBlockId>
+          <odeIdeviceId>idevice-1774452096568-vt8ndlf9e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9e-ek2096hg6</odePageId>
+  <odeParentPageId>page-mnt47z9e-wzk2t01hs</odeParentPageId>
+  <pageName>Sesiones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9e-ek2096hg6</odePageId>
+      <odeBlockId>block-1774365852337-4a489qdy9</odeBlockId>
+      <blockName>¡Comencemos a trabajar!</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9e-ek2096hg6</odePageId>
+          <odeBlockId>block-1774365852337-4a489qdy9</odeBlockId>
+          <odeIdeviceId>idevice-1774365852335-orp9clbzw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />En este apartado encontraréis distintos desplegables con cada una de las habilidades o aspectos fundamentales a trabajar en la situación de aprendizaje de <strong>La compra en el supermercado</strong>. </p>
+<p>Como podréis comprobar, la tarea se encuentra descrita y además podréis tener información complementaria como:</p>
+<p>- Duración de la actividad</p>
+<p>- Agrupamientos</p>
+<p>- Recursos digitales</p>
+<p>- Enlaces interesantes</p>
+<p> </p>
+<p>Dicho esto... empecemos a comprar!!!!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774365852335-orp9clbzw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />En este apartado encontraréis distintos desplegables con cada una de las habilidades o aspectos fundamentales a trabajar en la situación de aprendizaje de <strong>La compra en el supermercado</strong>. </p>\n<p>Como podréis comprobar, la tarea se encuentra descrita y además podréis tener información complementaria como:</p>\n<p>- Duración de la actividad</p>\n<p>- Agrupamientos</p>\n<p>- Recursos digitales</p>\n<p>- Enlaces interesantes</p>\n<p> </p>\n<p>Dicho esto... empecemos a comprar!!!!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9f-ovykzh6uv</odePageId>
+  <odeParentPageId>page-mnt47z9e-ek2096hg6</odeParentPageId>
+  <pageName>Introducción a la SdA. Partes del supermercado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción a la SdA. Partes del supermercado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Las partes del supermercado.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción a la SdA. Partes del supermercado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9f-ovykzh6uv</odePageId>
+      <odeBlockId>block-1774366104351-j06d2o5yn</odeBlockId>
+      <blockName>Tiempo 30 minutos.  Agrupamiento por parejas de dos.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9f-ovykzh6uv</odePageId>
+          <odeBlockId>block-1774366104351-j06d2o5yn</odeBlockId>
+          <odeIdeviceId>idevice-1774366104350-kzjqby9qr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>Para comenzar la SdA es imprescindible tener en cuenta los conocimientos previos del grupo. El alumnado ve un video de personas realizando las compras en un supermercado, las sesiones del supermercado y todas las habilidades necesarias para hacer la compra de manera correcta. Enlace del vídeo: </p>
+<p><a href="https://youtu.be/Lljb-wyxZNk?is=uqD6mRV08-IK3RZC" title="">https://youtu.be/Lljb-wyxZNk?is=uqD6mRV08-IK3RZC</a></p>
+<p>Después se les pide que realicen la siguiente ficha sobre las partes del supermercado. </p>
+<p><a href="https://www.liveworksheets.com/worksheet/es/autonomia-personal/1402859" title="">https://www.liveworksheets.com/worksheet/es/autonomia-personal/1402859</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774366104350-kzjqby9qr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>Para comenzar la SdA es imprescindible tener en cuenta los conocimientos previos del grupo. El alumnado ve un video de personas realizando las compras en un supermercado, las sesiones del supermercado y todas las habilidades necesarias para hacer la compra de manera correcta. Enlace del vídeo: </p>\n<p><a href=\"https://youtu.be/Lljb-wyxZNk?is=uqD6mRV08-IK3RZC\" title=\"\">https://youtu.be/Lljb-wyxZNk?is=uqD6mRV08-IK3RZC</a></p>\n<p>Después se les pide que realicen la siguiente ficha sobre las partes del supermercado. </p>\n<p><a href=\"https://www.liveworksheets.com/worksheet/es/autonomia-personal/1402859\" title=\"\">https://www.liveworksheets.com/worksheet/es/autonomia-personal/1402859</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9g-trewl05l5</odePageId>
+  <odeParentPageId>page-mnt47z9e-ek2096hg6</odeParentPageId>
+  <pageName>El reconocimiento de las monedas.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El reconocimiento de las monedas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El reconocimiento de las monedas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El reconocimiento de las monedas.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9g-trewl05l5</odePageId>
+      <odeBlockId>block-1774367984336-4uxqeestt</odeBlockId>
+      <blockName>Tiempo: 2 horas. Agrupamiento: individual</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9g-trewl05l5</odePageId>
+          <odeBlockId>block-1774367984336-4uxqeestt</odeBlockId>
+          <odeIdeviceId>idevice-1774367984334-c1ksffsb2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Se les presentará al alumnado monedas de juguete, donde aparezcan las monedas de los <br />céntimos: <br />- 1 céntimo <br />- 2 céntimos. <br />- 5 céntimos. <br />- 10 céntimos. <br />- 20 céntimos. <br />- 50 céntimos. <br />- 1 euro. <br />- 2 euros. </p>
+<p>Además  como apoyo a nuestra explicación usaremos el siguiente enlace para explicar el uso de las monedas en la PDI: </p>
+<p>Enlace:</p>
+<p><a href="https://youtube.com/shorts/jxHa12Enhb4?feature=shared" title="">https://youtube.com/shorts/jxHa12Enhb4?feature=shared</a></p>
+<p><br />Una vez presentadas las monedas tendrán que diferenciar los céntimos y los euros para ello <br />realizaremos actividades en la pizarra donde de azul vayan los euros y de rojo los céntimos. </p>
+<p> Además, realizaremos una actividad en la aplicación j. clic para trabajar el manejo del dinero en la PDI. </p>
+<p><a href="https://clic.xtec.cat/projects/eurobesp/jclic.js/index.html" title="">https://clic.xtec.cat/projects/eurobesp/jclic.js/index.html</a></p>
+<p><img src="{{context_path}}/content/resources/dinero.jpg" width="411" height="274" alt="" /><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774367984334-c1ksffsb2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Se les presentará al alumnado monedas de juguete, donde aparezcan las monedas de los <br />céntimos: <br />- 1 céntimo <br />- 2 céntimos. <br />- 5 céntimos. <br />- 10 céntimos. <br />- 20 céntimos. <br />- 50 céntimos. <br />- 1 euro. <br />- 2 euros. </p>\n<p>Además  como apoyo a nuestra explicación usaremos el siguiente enlace para explicar el uso de las monedas en la PDI: </p>\n<p>Enlace:</p>\n<p><a href=\"https://youtube.com/shorts/jxHa12Enhb4?feature=shared\" title=\"\">https://youtube.com/shorts/jxHa12Enhb4?feature=shared</a></p>\n<p><br />Una vez presentadas las monedas tendrán que diferenciar los céntimos y los euros para ello <br />realizaremos actividades en la pizarra donde de azul vayan los euros y de rojo los céntimos. </p>\n<p> Además, realizaremos una actividad en la aplicación j. clic para trabajar el manejo del dinero en la PDI. </p>\n<p><a href=\"https://clic.xtec.cat/projects/eurobesp/jclic.js/index.html\" title=\"\">https://clic.xtec.cat/projects/eurobesp/jclic.js/index.html</a></p>\n<p><img src=\"{{context_path}}/content/resources/dinero.jpg\" width=\"411\" height=\"274\" alt=\"\" /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt47z9g-trewl05l5</odePageId>
+      <odeBlockId>block-1774369169912-tpjbewsdv</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9g-trewl05l5</odePageId>
+          <odeBlockId>block-1774369169912-tpjbewsdv</odeBlockId>
+          <odeIdeviceId>idevice-1774369169910-21yeningt</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9g-op7kaircm</odePageId>
+  <odeParentPageId>page-mnt47z9e-ek2096hg6</odeParentPageId>
+  <pageName>El cálculo de sumas y restas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El cálculo de sumas y restas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El cálculo de sumas y restas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9g-op7kaircm</odePageId>
+      <odeBlockId>block-1774369568902-kij7nk689</odeBlockId>
+      <blockName>Tiempo: 2 horas. Agrupamientos: individual.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9g-op7kaircm</odePageId>
+          <odeBlockId>block-1774369568902-kij7nk689</odeBlockId>
+          <odeIdeviceId>idevice-1774369568899-srxfxxl8b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En primer lugar se repasan y vuelven a explicar el concepto de sumas y restar en la pizarra. En segundo lugar se repasan los conceptos clave de la suma y resta en la PDI, a través del siguiente enlace:</p>
+<p><a href="https://youtu.be/k46QCr1GofU?feature=shared" title="">https://youtu.be/k46QCr1GofU?feature=shared</a></p>
+<p>Se le elabora una ficha PDI a través de herramienta digital liveworksheet para las sumas y <br />restas de los euros y céntimos. </p>
+<p>Enlace de la ficha:</p>
+<p><a href="https://www.liveworksheets.com/worksheet/es/math-addition-and-subtraction/8225744#google_vignette" title="">https://www.liveworksheets.com/worksheet/es/math-addition-and-subtraction/8225744#google_vignette</a></p>
+<p>Finalmente se le corrige la ficha a través de la misma herramienta digital.</p>
+<p><img src="{{context_path}}/content/resources/sumas y restas.png" width="471" height="200" alt="" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774369568899-srxfxxl8b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En primer lugar se repasan y vuelven a explicar el concepto de sumas y restar en la pizarra. En segundo lugar se repasan los conceptos clave de la suma y resta en la PDI, a través del siguiente enlace:</p>\n<p><a href=\"https://youtu.be/k46QCr1GofU?feature=shared\" title=\"\">https://youtu.be/k46QCr1GofU?feature=shared</a></p>\n<p>Se le elabora una ficha PDI a través de herramienta digital liveworksheet para las sumas y <br />restas de los euros y céntimos. </p>\n<p>Enlace de la ficha:</p>\n<p><a href=\"https://www.liveworksheets.com/worksheet/es/math-addition-and-subtraction/8225744#google_vignette\" title=\"\">https://www.liveworksheets.com/worksheet/es/math-addition-and-subtraction/8225744#google_vignette</a></p>\n<p>Finalmente se le corrige la ficha a través de la misma herramienta digital.</p>\n<p><img src=\"{{context_path}}/content/resources/sumas y restas.png\" width=\"471\" height=\"200\" alt=\"\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9g-nkxwnuhy8</odePageId>
+  <odeParentPageId>page-mnt47z9e-ek2096hg6</odeParentPageId>
+  <pageName>La elaboración de la lista de la compra y exposición</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La elaboración de la lista de la compra y exposición</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La elaboración de la lista de la compra y exposición</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9g-nkxwnuhy8</odePageId>
+      <odeBlockId>block-1774374623163-klp7c2cl3</odeBlockId>
+      <blockName>Agrupamiento: por parejas. Tiempo: 2 horas.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9g-nkxwnuhy8</odePageId>
+          <odeBlockId>block-1774374623163-klp7c2cl3</odeBlockId>
+          <odeIdeviceId>idevice-1774374623159-tlvsnsqks</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se les enseñará a elaborar una lista de la compra donde aparezcan los distintos tipos de alimentos del supermercado en canva. Después, le pedimos que elaboren una lista de la compra en casa a través de esta herramienta digital y la suban al classroom. Una vez que la evaluemos, posteriormente la imprimiremos para que la rellenen en clase y vayamos hacer la compra. <br title="" /><a href="https://www.canva.com/design/DAHE4blOTeI/Yhie3oVlTt3l7zYPv1VVNQ/edit?utm_content=DAHE4blOTeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">https://www.canva.com/design/DAHE4blOTeI/Yhie3oVlTt3l7zYPv1VVNQ/edit?utm_content=DAHE4blOTeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a><br /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/carrito.avif" width="471" height="246" alt="" /><br /></p>
+<p>Además, luego la familia le tendrá que dar dinero en un monedero para ir hacer la compra el día que fijamos para realizar la salida complementaria. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774374623159-tlvsnsqks","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se les enseñará a elaborar una lista de la compra donde aparezcan los distintos tipos de alimentos del supermercado en canva. Después, le pedimos que elaboren una lista de la compra en casa a través de esta herramienta digital y la suban al classroom. Una vez que la evaluemos, posteriormente la imprimiremos para que la rellenen en clase y vayamos hacer la compra. <br title=\"\" /><a href=\"https://www.canva.com/design/DAHE4blOTeI/Yhie3oVlTt3l7zYPv1VVNQ/edit?utm_content=DAHE4blOTeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\">https://www.canva.com/design/DAHE4blOTeI/Yhie3oVlTt3l7zYPv1VVNQ/edit?utm_content=DAHE4blOTeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a><br /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/carrito.avif\" width=\"471\" height=\"246\" alt=\"\" /><br /></p>\n<p>Además, luego la familia le tendrá que dar dinero en un monedero para ir hacer la compra el día que fijamos para realizar la salida complementaria. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9g-av233aisd</odePageId>
+  <odeParentPageId>page-mnt47z9e-ek2096hg6</odeParentPageId>
+  <pageName>La compra en clase</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La compra en clase</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La compra en clase</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9g-av233aisd</odePageId>
+      <odeBlockId>block-1774375240328-d59k36s9p</odeBlockId>
+      <blockName>Tiempo: 6o minutos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9g-av233aisd</odePageId>
+          <odeBlockId>block-1774375240328-d59k36s9p</odeBlockId>
+          <odeIdeviceId>idevice-1774375240321-hvcej7wbt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión  el alumnado deberá realizar una compra virtual en la PDI a través de la siguiente actividad<br />que aparece en la herramienta digital liveworksheet. </p>
+<p>Enlace de la actividad:</p>
+<p><a href="https://www.liveworksheets.com/worksheet/es/matematicas/701883" title="">https://www.liveworksheets.com/worksheet/es/matematicas/701883</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774375240321-hvcej7wbt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión  el alumnado deberá realizar una compra virtual en la PDI a través de la siguiente actividad<br />que aparece en la herramienta digital liveworksheet. </p>\n<p>Enlace de la actividad:</p>\n<p><a href=\"https://www.liveworksheets.com/worksheet/es/matematicas/701883\" title=\"\">https://www.liveworksheets.com/worksheet/es/matematicas/701883</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9h-oe7paymgq</odePageId>
+  <odeParentPageId>page-mnt47z9e-ek2096hg6</odeParentPageId>
+  <pageName>Tarea final</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9h-oe7paymgq</odePageId>
+      <odeBlockId>block-1774375487169-g7aop1zxk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9h-oe7paymgq</odePageId>
+          <odeBlockId>block-1774375487169-g7aop1zxk</odeBlockId>
+          <odeIdeviceId>idevice-1774375487167-z9mz7z0h6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Ya casi estamos!</p>
+<p>Tras haber realizado cada una de las tareas propuestas y haberlas superado, es momento de trabajar en nuestro producto final.</p>
+<p>El día marcado en el calendario iremos, el alumnado junto con la PTIS y el maestro de Pedagogía Terapéutica  a <br />realizar la compra a un supermercado próximo al colegio. Previamente le entregaremos la lista de la compra creadas por ellos en canva. Además, le tendrán que dar dinero en un monedero. </p>
+<p>En esta tarea final se pondrán a prueba las siguientes habilidades y competencias: </p>
+<p>-  Habilidades sociales el saludo, la despedida, el darle dinero, la vuelta. </p>
+<p>- La autonomía personal en el desplazamiento del supermercado y encontrar los productos en la parte del supermercado. </p>
+<p><img src="{{context_path}}/content/resources/supermercado 2..jpg" width="612" height="342" alt="" /><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774375487167-z9mz7z0h6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Ya casi estamos!</p>\n<p>Tras haber realizado cada una de las tareas propuestas y haberlas superado, es momento de trabajar en nuestro producto final.</p>\n<p>El día marcado en el calendario iremos, el alumnado junto con la PTIS y el maestro de Pedagogía Terapéutica  a <br />realizar la compra a un supermercado próximo al colegio. Previamente le entregaremos la lista de la compra creadas por ellos en canva. Además, le tendrán que dar dinero en un monedero. </p>\n<p>En esta tarea final se pondrán a prueba las siguientes habilidades y competencias: </p>\n<p>-  Habilidades sociales el saludo, la despedida, el darle dinero, la vuelta. </p>\n<p>- La autonomía personal en el desplazamiento del supermercado y encontrar los productos en la parte del supermercado. </p>\n<p><img src=\"{{context_path}}/content/resources/supermercado 2..jpg\" width=\"612\" height=\"342\" alt=\"\" /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9h-5zrnfn399</odePageId>
+  <odeParentPageId>page-mnt47z97-4byvo8i5g</odeParentPageId>
+  <pageName>La evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9h-5zrnfn399</odePageId>
+      <odeBlockId>block-1774457576767-c8d83bmh5</odeBlockId>
+      <blockName>Instrumentos de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9h-5zrnfn399</odePageId>
+          <odeBlockId>block-1774457576767-c8d83bmh5</odeBlockId>
+          <odeIdeviceId>idevice-1774457576761-wwqsro9sl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el desarrollo de competencia de nuestro alumnado en esta SdA, se han elaborado dos instrumentos de evaluación; una lista de cotejo a tener en cuenta en el desarrollo de las sesiones y una diana de evaluación para que el alumnado pueda participar en dicha tarea y evaluar a sus compañeros.</p>
+<p>1) Lista de cotejo:</p>
+<p><img src="{{context_path}}/content/resources/0.jpg" width="280" height="395" alt="" />   <img src="{{context_path}}/content/resources/1.jpg" width="298" height="421" alt="" /> <img src="{{context_path}}/content/resources/2.jpg" width="161" height="227" alt="" /></p>
+<p>2) Diana de Autoevaluación: </p>
+<p><img src="{{context_path}}/content/resources/Diana de Evaluación Educativa Autoevaluación.jpg" width="370" height="523" alt="" /></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774457576761-wwqsro9sl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el desarrollo de competencia de nuestro alumnado en esta SdA, se han elaborado dos instrumentos de evaluación; una lista de cotejo a tener en cuenta en el desarrollo de las sesiones y una diana de evaluación para que el alumnado pueda participar en dicha tarea y evaluar a sus compañeros.</p>\n<p>1) Lista de cotejo:</p>\n<p><img src=\"{{context_path}}/content/resources/0.jpg\" width=\"280\" height=\"395\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/1.jpg\" width=\"298\" height=\"421\" alt=\"\" /> <img src=\"{{context_path}}/content/resources/2.jpg\" width=\"161\" height=\"227\" alt=\"\" /></p>\n<p>2) Diana de Autoevaluación: </p>\n<p><img src=\"{{context_path}}/content/resources/Diana de Evaluación Educativa Autoevaluación.jpg\" width=\"370\" height=\"523\" alt=\"\" /></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt47z9h-ci1xq73o1</odePageId>
+  <odeParentPageId>page-mnt47z97-4byvo8i5g</odeParentPageId>
+  <pageName>Autoria</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoria</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoria</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt47z9h-ci1xq73o1</odePageId>
+      <odeBlockId>block-1775662550381-qoeig18du</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9h-ci1xq73o1</odePageId>
+          <odeBlockId>block-1775662550381-qoeig18du</odeBlockId>
+          <odeIdeviceId>idevice-1775662550380-p0ms2syl4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- Autor: Rafael Baltanás Cabrera. </p>
+<p>- Título : La compra en el supermercado. </p>
+<p>- Fecha de creación: 08/04/2026.</p>
+<p>- Idioma: Español.</p>
+<p>- Descripción: esta SdA va dirigida al alumnado con NEE escolarizado en la modalidad C de nuestro IES con un nivel de competencia curricular de segundo de primaria.  El contenido de la SdA se estructura por sesiones para trabajar: las partes del supermercado, la sumas, las restas, el manejo del dinero y la lista de la compra. </p>
+<p>- Licencia: creative commons: attribution - share alike 4.0 (BY-SA).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775662550380-p0ms2syl4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Autor: Rafael Baltanás Cabrera. </p>\n<p>- Título : La compra en el supermercado. </p>\n<p>- Fecha de creación: 08/04/2026.</p>\n<p>- Idioma: Español.</p>\n<p>- Descripción: esta SdA va dirigida al alumnado con NEE escolarizado en la modalidad C de nuestro IES con un nivel de competencia curricular de segundo de primaria.  El contenido de la SdA se estructura por sesiones para trabajar: las partes del supermercado, la sumas, las restas, el manejo del dinero y la lista de la compra. </p>\n<p>- Licencia: creative commons: attribution - share alike 4.0 (BY-SA).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt47z9h-ci1xq73o1</odePageId>
+      <odeBlockId>block-1775663377820-s5nx5sabu</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt47z9h-ci1xq73o1</odePageId>
+          <odeBlockId>block-1775663377820-s5nx5sabu</odeBlockId>
+          <odeIdeviceId>idevice-1775663377818-u1y21rwwc</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">La compra en el supermercado</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En esta SdA vamos a tratar la relevancia de saber hacer bien la compra en un supermercado. Para ello vamos a trabajar a través de sesiones: las partes del supermercado, el uso de las monedas, las sumas, las restas del dinero y la elaboración de una lista de la compra entre otras. Todo ello se va a realizar a través de actividades interactivas muy motivacionales. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Rafael Baltanás Cabrera. </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
